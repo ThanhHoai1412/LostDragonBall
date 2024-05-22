@@ -5,7 +5,7 @@
     color: red;
 }
 .TrangChu{
-    background-image: url(./TrangChu.jpg);
+    background-image: url(/LostDragonBall/TrangChu.jpg);
     background-size: cover;
     background-position: center;
 }
