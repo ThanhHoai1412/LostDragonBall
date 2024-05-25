@@ -37,4 +37,36 @@ table{
     line-height: 20px;
     margin-top: 20px;
 }
+@media (max-width: 768px) {
+    .TrangChu p {
+        font-size: 18px; /* Điều chỉnh kích thước font cho màn hình nhỏ */
+    }
+
+    ul.facebook {
+        flex-direction: column;
+        align-items: flex-start;
+        font-size: 16px; /* Điều chỉnh kích thước font cho màn hình nhỏ */
+    }
+    nav .facebook {
+        flex-direction: row;
+    }
+    ul.menu {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .TraCuu h1 {
+        font-size: 20px; /* Điều chỉnh kích thước font cho màn hình nhỏ */
+    }
+
+    table {
+        padding: 0 ;
+        line-height: 1px;
+    }
+
+    table img {
+        width: 100%;
+        height: 60px;
+    }
+}
 
