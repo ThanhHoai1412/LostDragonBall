@@ -39,13 +39,11 @@ table{
 }
 @media (max-width: 768px) {
     .TrangChu p {
-        font-size: 18px; /* Điều chỉnh kích thước font cho màn hình nhỏ */
+        font-size: 18px;
     }
-
     ul.facebook {
         flex-direction: column;
         align-items: flex-start;
-        font-size: 16px; /* Điều chỉnh kích thước font cho màn hình nhỏ */
     }
     nav .facebook {
         flex-direction: row;
@@ -54,16 +52,13 @@ table{
         flex-direction: column;
         align-items: flex-start;
     }
-
     .TraCuu h1 {
-        font-size: 20px; /* Điều chỉnh kích thước font cho màn hình nhỏ */
+        font-size: 20px;
     }
-
     table {
         padding: 0 ;
         line-height: 1px;
     }
-
     table img {
         width: 100%;
         height: 60px;

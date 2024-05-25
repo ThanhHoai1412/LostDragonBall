@@ -45,9 +45,7 @@ table{
 }
 @media (max-width: 768px) {
     .TrangChu p {
-        font-size: 24px;
-        line-height: 1.2;
-        margin: 10px 0;
+        font-size: 18px;
     }
     ul.facebook {
         flex-direction: column;
@@ -61,23 +59,19 @@ table{
         flex-direction: column;
         align-items: flex-start;
     }
-
     h1 {
         font-size: 32px;
     }
-
     .skill {
         padding: 0 10px;
     }
-
     table {
         width: 100%;
         padding: 0;
         line-height: 1;
     }
-
     nav .facebook li a img {
-        width: 15px; /* Điều chỉnh kích thước logo */
+        width: 15px;
         height: 15px;
     }
 }
